@@ -1,1 +1,2 @@
-my name is jim
+my name is jim.
+i am a programmer.
